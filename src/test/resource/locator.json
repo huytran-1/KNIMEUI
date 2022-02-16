@@ -1,0 +1,18 @@
+{
+  "AcceptCookie": "[class='accept-button button primary']",
+  "Login": "[class='login']",
+  "Username": "[name='name']",
+  "Password": "[name='pass']",
+  "Submit": "[name='op']",
+  "MySpace": "[class='login']>div>ul>li:nth-of-type(2)",
+  "CreateNewSpace": "[class='space-list']>li:nth-of-type(1)",
+  "SpaceName": "[class='container']",
+  "SpaceNameTextBox": "[class='text']",
+  "SaveButton": "[class='function-button single primary']",
+  "EditButton": "[class='toggle function-button single']",
+  "Delete": "[class='action-popover popover expanded']>div>div:nth-of-type(1)>div>button",
+  "DeleteSpaceName": "[id='confirmationForm']>div>input",
+  "DeleteSubmit": "[class='button primary fullWidth']",
+  "MySpaceHeader": "[class='grid-item-9 child-container']>div>h2"
+
+}
